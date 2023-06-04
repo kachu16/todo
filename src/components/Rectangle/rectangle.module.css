@@ -1,0 +1,12 @@
+.rectangle{
+    height: 3rem;
+    width: 100%;
+    background-color: #3772FF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para {
+    font-size: 14px;
+    color: #FFFFFF;
+}
